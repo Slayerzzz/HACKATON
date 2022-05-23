@@ -67,3 +67,28 @@ p {
     background-image: url("https://e7.pngegg.com/pngimages/924/387/png-clipart-pikachu-euclidean-ball-open-the-red-ball-wizard-pet-elf.png");
     background-size: 100% 100%;
 }
+
+header {
+    display: flex;
+    height: 15vh;
+    column-gap: 30vw;
+}
+
+
+
+
+li {
+    display: flex;
+    align-items: flex-end;
+    column-gap: 50px;
+}
+
+
+
+a {
+    text-decoration: none;
+    font-size: 2rem;
+    color: red;
+    text-shadow: 5px 3px 5px black;
+    ;
+}
