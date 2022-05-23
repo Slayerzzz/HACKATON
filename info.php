@@ -34,7 +34,7 @@ if ($_SESSION['ingelogd'] != true) {
     <li>
         <a href="index.php">Homepage</a>
         <a href="Info.php">Info</a>
-        <a href="Webpage.php">Webpage</a>
+        <a href="store.php">Webpage</a>
         <a href="inloggen.php">Inloggen</a>
     </li>
     </header>

@@ -1,3 +1,5 @@
+
+
 footer {
     background-color: #11468F;
     position: relative;
@@ -71,7 +73,7 @@ p {
 header {
     display: flex;
     height: 15vh;
-    column-gap: 30vw;
+    column-gap: 50vw;
     border: black 2px solid;
 }
 
