@@ -1,3 +1,10 @@
+<?php
+session_start();
+if ($_SESSION['ingelogd'] != true) {
+    header("Location:inloggen.php");
+}
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
