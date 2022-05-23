@@ -18,7 +18,7 @@ if ($_SESSION['ingelogd'] != true) {
     <link
   rel="stylesheet"
   href="https://unpkg.com/swiper@8/swiper-bundle.min.css"/>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="css/styles.css">
     <!-- <script src="slideshow.js" refer></script> -->
     <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
 </head>
