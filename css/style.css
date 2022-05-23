@@ -1,0 +1,58 @@
+header{
+    display: flex;
+    height: 15vh;
+    column-gap: 30vw;
+}
+
+li{
+    display: flex;
+    align-items: flex-end;
+    column-gap: 50px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 2rem;
+    color: red;
+    text-shadow: 5px 3px 5px black;;
+}
+
+
+footer {
+    background-color: red;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:180px;   /* Height of the footer */
+    margin-left: -0.5%;
+  }
+  .claimer {
+    margin-left: 85%;
+    color: #EEEEEE;
+    margin-top: -3%;
+  }
+.adres {
+    color: #EEEEEE;
+    padding: 0.1%;
+}
+.contact {
+    margin-left: 85%;
+    margin-top: -10%;
+    color: #EEEEEE;
+}
+    #knop {
+    background-color: #11468F;
+    color: white;
+    border: solid black 3px;
+}
+
+.tekst {
+    margin-left: -3vw; 
+}
+.inlog {
+     margin-left: 43vw;
+     margin-top: 10%;
+}
+input {
+    height: 3vh;
+}
