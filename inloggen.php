@@ -32,12 +32,7 @@ if (isset($_POST['submit'])) {
 <body>
 <header>
 <a href="index.php"><img src="images/logopoke.png" alt="logopoke" height="200px"></a>
-<li>
-    <a href="index.php">Homepage</a>
-    <a href="Info.php">Info</a>
-    <a href="Webpage.php">Webpage</a>
-    <a href="inloggen.php">Inloggen</a>
-</li>
+
 
 </header>
 
