@@ -34,10 +34,10 @@
   <!-- Additional required wrapper -->
   <div class="swiper-wrapper">
     <!-- Slides -->
-    <div class="swiper-slide"><img src="gen1.webp" alt="" height="100%"></div>
-    <div class="swiper-slide"><img src="GEN2.jpg" alt="" height="100%"></div>
-    <div class="swiper-slide"><img src="gen3.jpg" alt="" height="100%"></div>
-    <div class="swiper-slide"><img src="gen4.png" alt="" height="100%"></div>
+    <div class="swiper-slide"><img src="images/gen1.webp" alt="" height="100%"></div>
+    <div class="swiper-slide"><img src="images/GEN2.jpg" alt="" height="100%"></div>
+    <div class="swiper-slide"><img src="images/gen3.jpg" alt="" height="100%"></div>
+    <div class="swiper-slide"><img src="images/gen4.png" alt="" height="100%"></div>
 
     
   </div>
