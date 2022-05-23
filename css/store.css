@@ -1,0 +1,32 @@
+footer {
+    background-color: #11468F;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 180px;
+    /* Height of the footer */
+    margin-left: -0.5%;
+}
+
+.claimer {
+    margin-left: 85%;
+    color: #EEEEEE;
+    margin-top: -3%;
+}
+
+.adres {
+    color: #EEEEEE;
+    padding: 0.1%;
+}
+
+.contact {
+    margin-left: 85%;
+    margin-top: -10%;
+    color: #EEEEEE;
+}
+
+#knop {
+    background-color: #11468F;
+    color: white;
+    border: solid black 3px;
+}
