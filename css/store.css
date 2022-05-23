@@ -74,16 +74,11 @@ header {
     column-gap: 30vw;
 }
 
-
-
-
 li {
     display: flex;
     align-items: flex-end;
     column-gap: 50px;
 }
-
-
 
 a {
     text-decoration: none;
