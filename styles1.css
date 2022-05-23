@@ -40,7 +40,9 @@ a{
 }
 
   .swiper-slide{
-      margin-left: 35%;
+      display: flex;
+      align-items: center;
+      margin-left: 30%;
   }
 
   q{
