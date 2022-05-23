@@ -72,6 +72,7 @@ header {
     display: flex;
     height: 15vh;
     column-gap: 30vw;
+    border: black 2px solid;
 }
 
 li {
@@ -86,4 +87,10 @@ a {
     color: red;
     text-shadow: 5px 3px 5px black;
     ;
+}
+
+.kijkzomoethet {
+    margin-right: 30vw;
+    position: relative;
+    right: 8vw;
 }
